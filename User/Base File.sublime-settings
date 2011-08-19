@@ -1,0 +1,35 @@
+// Settings in here override those in "Default/Base File.sublime-settings", and
+// are overridden in turn by file type specific settings. Place your settings
+// here, to ensure they're preserved when upgrading.
+{
+	// Sets the colors used within the text area
+	"color_scheme": "Packages/User/Color Scheme/Clouds Midnight.tmTheme",
+
+	// Note that the font_face and font_size are overriden in the platform
+	// specific settings file, for example, "Base File (Linux).sublime-settings".
+	// Because of this, setting them here will have no effect: you must set them
+	// in your User File Preferences.
+	"font_face": "Monaco",
+	"font_size": 13,
+
+	// Set to false for horizontal scrolling
+	"word_wrap": false,
+
+	// The number of spaces a tab is considered equal to
+	"tab_size": 3,
+
+	// Set to false to disable scrolling past the end of the buffer
+	"scroll_past_end": true,
+
+	// Set to true to removing trailing white space on save
+	"trim_trailing_white_space_on_save": true,
+
+	// Determines what character(s) are used to terminate each line in new files.
+	// Valid values are 'system' (whatever the OS uses), 'windows' (CRLF) and
+	// 'unix' (LF only).
+	"default_line_ending": "unix",
+
+	// If true, the selected text will be copied into the find panel when it's
+	// shown.
+	"find_selected_text": true
+}

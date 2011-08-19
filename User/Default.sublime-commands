@@ -1,0 +1,4 @@
+[
+    { "caption": "Decode Quoted-Printable", "command": "decode_quoted_printable" },
+    { "caption": "Normalize Unicode Punctuation", "command": "normalize_unicode_punctuation" }
+]
