@@ -1,3 +1,6 @@
 [submodule "Theme - Soda"]
 	path = Theme - Soda
 	url = git://github.com/buymeasoda/soda-theme.git
+[submodule "SCSS"]
+	path = SCSS
+	url = git://github.com/kuroir/SCSS.git
