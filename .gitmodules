@@ -4,3 +4,6 @@
 [submodule "SCSS"]
 	path = SCSS
 	url = git://github.com/kuroir/SCSS.git
+[submodule "sublime_alignment"]
+	path = sublime_alignment
+	url = git://github.com/wbond/sublime_alignment.git
