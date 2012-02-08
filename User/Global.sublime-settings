@@ -2,6 +2,7 @@
 // when upgrading
 {
 	"theme": "Soda Dark.sublime-theme",
+	"highlight_modified_tabs": true,
 
 	"folder_exclude_patterns": [".svn", ".git", ".hg", "CVS", ".sass-cache"],
 

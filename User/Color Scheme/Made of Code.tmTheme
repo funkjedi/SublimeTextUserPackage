@@ -23,6 +23,22 @@
 				<string>#00000000</string>
 				<key>selection</key>
 				<string>#007DFF80</string>
+
+				<key>bracketsForeground</key>
+				<string>#FF0000</string>
+				<key>bracketsOptions</key>
+				<string>foreground underline</string>
+
+				<key>bracketContentsForeground</key>
+				<string>#FF0000</string>
+				<key>bracketContentsOptions</key>
+				<string>foreground underline</string>
+
+				<key>tagsForeground</key>
+				<string>#FF0000</string>
+				<key>tagsOptions</key>
+				<string>foreground underline</string>
+
 			</dict>
 		</dict>
 		<dict>

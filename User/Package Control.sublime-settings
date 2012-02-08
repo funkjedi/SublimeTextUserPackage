@@ -1,3 +1,12 @@
 {
-	"auto_upgrade_last_run": 1316525445
+	"auto_upgrade_last_run": 1328710166,
+	"installed_packages":
+	[
+		"Alignment",
+		"Package Control",
+		"Prefixr",
+		"Terminal",
+		"Theme - Soda",
+		"ZenCoding"
+	]
 }
