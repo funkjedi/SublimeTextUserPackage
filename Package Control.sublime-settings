@@ -1,10 +1,14 @@
 {
-	"auto_upgrade_last_run": 1328710166,
+	"auto_upgrade_last_run": 1348412783,
 	"installed_packages":
 	[
 		"Alignment",
+		"CoffeeScript",
+		"LESS",
 		"Package Control",
 		"Prefixr",
+		"SCSS",
+		"StringEncode",
 		"Terminal",
 		"Theme - Soda",
 		"ZenCoding"
