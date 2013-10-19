@@ -1,16 +1,25 @@
 {
-	"auto_upgrade_last_run": 1348412783,
+	"auto_upgrade_last_run": null,
 	"installed_packages":
 	[
 		"Alignment",
+		"AngularJS",
+		"ApacheConf.tmLanguage",
+		"Case Conversion",
 		"CoffeeScript",
+		"Emmet",
+		"Grunt",
+		"Handlebars",
+		"HTML5",
 		"LESS",
 		"Package Control",
-		"Prefixr",
 		"SCSS",
 		"StringEncode",
-		"Terminal",
+		"Stylus",
+		"SublimeCodeIntel",
+		"SublimeTmpl",
 		"Theme - Soda",
-		"ZenCoding"
+		"Tomorrow Color Schemes",
+		"View In Browser"
 	]
 }

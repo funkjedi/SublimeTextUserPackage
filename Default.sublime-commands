@@ -1,4 +1,14 @@
 [
-    { "caption": "Decode Quoted-Printable", "command": "decode_quoted_printable" },
-    { "caption": "Normalize Unicode Punctuation", "command": "normalize_unicode_punctuation" }
+    {
+        "caption": "User: Decode Quoted-Printable",
+        "command": "decode_quoted_printable"
+    },
+    {
+        "caption": "User: Normalize Unicode Punctuation",
+        "command": "normalize_unicode_punctuation"
+    },
+    {
+        "caption": "User: Dashes to Underscores",
+        "command": "dashes_to_underscores"
+    }
 ]
