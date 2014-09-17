@@ -6,20 +6,17 @@
 		"AngularJS",
 		"ApacheConf.tmLanguage",
 		"Case Conversion",
-		"CoffeeScript",
 		"Emmet",
-		"Grunt",
 		"Handlebars",
-		"HTML5",
+		"Laravel Blade Highlighter",
 		"LESS",
 		"Package Control",
+		"Pretty JSON",
+		"Sass",
 		"SCSS",
 		"StringEncode",
 		"Stylus",
-		"SublimeCodeIntel",
-		"SublimeTmpl",
 		"Theme - Soda",
-		"Tomorrow Color Schemes",
-		"View In Browser"
+		"Theme - Spacegray"
 	]
 }

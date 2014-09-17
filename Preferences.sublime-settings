@@ -3,6 +3,7 @@
 	"color_scheme": "Packages/User/Themes/IR_Black.tmTheme",
 	"default_line_ending": "unix",
 	"drag_text": false,
+	"draw_white_space": "selection",
 	"ensure_newline_at_eof_on_save": false,
 	"find_selected_text": true,
 	"fold_buttons": false,
@@ -13,22 +14,34 @@
 		".hg",
 		"CVS",
 		".sass-cache",
-		"node_modules"
+		".idea",
+		"node_modules",
+		".vagrant"
 	],
-	"font_face": "Monaco",
-	"font_size": 13.0,
+	"font_face": "Source Code Pro Light",
+	"font_size": 15.0,
+	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Handlebars",
+		"ApacheConf.tmLanguage",
+		"AngularJS",
+		"StringEncode",
+		"SCSS",
 		"Vintage",
+		"LESS",
+		"Case Conversion",
+		"Emmet",
+		"Stylus",
 		".DS_Store"
 	],
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "disabled",
 	"scroll_past_end": true,
 	"tab_size": 4,
-	"theme": "Soda Light 3.sublime-theme",
-	"translate_tabs_to_spaces": true,
+	"theme": "Soda Light.sublime-theme",
+	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": false
 }

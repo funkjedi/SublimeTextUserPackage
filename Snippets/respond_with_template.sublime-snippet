@@ -1,7 +1,0 @@
-<snippet>
-	<content><![CDATA[
-return respond_with_template('${1:name}.html.php', get_defined_vars());
-]]></content>
-	<tabTrigger>respond</tabTrigger>
-	<scope>source.php</scope>
-</snippet>
