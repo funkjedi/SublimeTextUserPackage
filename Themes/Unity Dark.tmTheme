@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+
+Based on the Unity Dark Syntax theme for Atom Editor
+https://github.com/defreitasdudu/unity-dark-syntax/blob/master/stylesheets/base.less
+
+-->
+<plist version="1.0">
+<dict>
+	<key>gutterSettings</key>
+	<dict>
+		<key>background</key>
+		<string>#1D1F21</string>
+		<key>divider</key>
+		<string>#CCCCCC</string>
+		<key>foreground</key>
+		<string>#CCCCCC</string>
+	</dict>
+	<key>name</key>
+	<string>Unity Dark</string>
+	<key>semanticClass</key>
+	<string>theme.dark.unity</string>
+	<key>settings</key>
+	<array>
+		<dict>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#1b1d1e</string>
+				<key>caret</key>
+				<string>#F8F8F0</string>
+				<key>foreground</key>
+				<string>#CCCCCC</string>
+				<key>invisibles</key>
+				<string>#49483E</string>
+				<key>lineHighlight</key>
+				<string>#282A2E</string>
+				<key>selection</key>
+				<string>#373B42</string>
+				<key>bracketsForeground</key>
+				<string>#FF00CC</string>
+				<key>bracketsOptions</key>
+				<string>foreground underline</string>
+				<key>bracketContentsForeground</key>
+				<string>#FF00CC</string>
+				<key>bracketContentsOptions</key>
+				<string>foreground underline</string>
+				<key>tagsForeground</key>
+				<string>#FF00CC</string>
+				<key>tagsOptions</key>
+				<string>foreground underline</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>comment</string>
+			<key>scope</key>
+			<string>comment</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#999999</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>keyword.operator.class, constant.other, source.php.embedded.line</string>
+			<key>scope</key>
+			<string>keyword.operator.class, constant.other, source.php.embedded.line</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CCCCCC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>variable, support.other.variable, string.other.link, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag</string>
+			<key>scope</key>
+			<string>variable, support.other.variable, string.other.link, entity.name.tag, entity.other.attribute-name, meta.tag, declaration.tag</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#CC6666</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit</string>
+			<key>scope</key>
+			<string>constant.numeric, constant.language, support.constant, constant.character, variable.parameter, punctuation.section.embedded, keyword.other.unit</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#DE9359</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>entity.name.class, entity.name.type.class, support.type, support.class</string>
+			<key>scope</key>
+			<string>entity.name.class, entity.name.type.class, support.type, support.class</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#F0C66F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>string, constant.other.symbol, entity.other.inherited-class, markup.heading</string>
+			<key>scope</key>
+			<string>string, constant.other.symbol, entity.other.inherited-class, markup.heading</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#AFB65F</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>keyword.operator, constant.other.color</string>
+			<key>scope</key>
+			<string>keyword.operator, constant.other.color</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#77A49E</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level</string>
+			<key>scope</key>
+			<string>entity.name.function, meta.function-call, support.function, keyword.other.special-method, meta.block-level</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#7DA2BE</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>keyword, storage, storage.type, entity.name.tag.css</string>
+			<key>scope</key>
+			<string>keyword, storage, storage.type, entity.name.tag.css</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#A994BB</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>invalid</string>
+			<key>scope</key>
+			<string>invalid</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#F2777A</string>
+				<key>foreground</key>
+				<string>#CCCCCC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>meta.separator</string>
+			<key>scope</key>
+			<string>meta.separator</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#99CCCC</string>
+			</dict>
+		</dict>
+		<dict>
+			<key>name</key>
+			<string>invalid.deprecated</string>
+			<key>scope</key>
+			<string>invalid.deprecated</string>
+			<key>settings</key>
+			<dict>
+				<key>background</key>
+				<string>#CC99CC</string>
+				<key>foreground</key>
+				<string>#CCCCCC</string>
+			</dict>
+		</dict>
+
+	</array>
+	<key>uuid</key>
+	<string>D8D5E82E-3D5B-46B5-B38E-8C841C21347D</string>
+	<key>colorSpaceName</key>
+	<string>sRGB</string>
+</dict>
+</plist>
