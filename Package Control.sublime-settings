@@ -1,5 +1,8 @@
 {
 	"auto_upgrade_last_run": null,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Alignment",
@@ -11,11 +14,14 @@
 		"Laravel Blade Highlighter",
 		"LESS",
 		"Package Control",
+		"PackageResourceViewer",
 		"Pretty JSON",
+		"ReactJS",
 		"Sass",
 		"SCSS",
 		"StringEncode",
 		"Stylus",
+		"Theme - itg.flat",
 		"Theme - Soda",
 		"Theme - Spacegray"
 	]

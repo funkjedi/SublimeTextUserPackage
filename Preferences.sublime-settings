@@ -1,6 +1,6 @@
 {
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Themes/IR_Black.tmTheme",
+	"color_scheme": "Packages/User/Themes/Unity Dark.tmTheme",
 	"default_line_ending": "unix",
 	"drag_text": false,
 	"draw_white_space": "selection",
@@ -24,24 +24,15 @@
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
-		"Handlebars",
-		"ApacheConf.tmLanguage",
-		"AngularJS",
-		"StringEncode",
-		"SCSS",
-		"Vintage",
-		"LESS",
-		"Case Conversion",
-		"Emmet",
-		"Stylus",
-		".DS_Store"
+		"Vintage"
 	],
 	"open_files_in_new_window": false,
 	"overlay_scroll_bars": "disabled",
 	"scroll_past_end": true,
 	"tab_size": 4,
-	"theme": "Soda Light.sublime-theme",
+	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false
+	"word_wrap": false,
+	//"disable_tab_abbreviations": true
 }
