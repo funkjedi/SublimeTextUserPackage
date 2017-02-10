@@ -1,0 +1,9 @@
+{
+	"extensions":
+	[
+		"zsh",
+		"sh",
+		"bash",
+		".env"
+	]
+}

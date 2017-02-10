@@ -2,11 +2,7 @@
 	<content><![CDATA[
 /**
  * ${1}
- *
- * @param  ${2}
- * @return mixed
  */
 ]]></content>
-	<tabTrigger>doc</tabTrigger>
-	<scope>source.php</scope>
+	<tabTrigger>/**</tabTrigger>
 </snippet>

@@ -158,10 +158,8 @@ https://github.com/defreitasdudu/unity-dark-syntax/blob/master/stylesheets/base.
 			<string>invalid</string>
 			<key>settings</key>
 			<dict>
-				<key>background</key>
-				<string>#F2777A</string>
 				<key>foreground</key>
-				<string>#CCCCCC</string>
+				<string>#F2777A</string>
 			</dict>
 		</dict>
 		<dict>
@@ -188,6 +186,61 @@ https://github.com/defreitasdudu/unity-dark-syntax/blob/master/stylesheets/base.
 				<string>#CCCCCC</string>
 			</dict>
 		</dict>
+
+        <dict>
+            <key>name</key>
+            <string>diff.header</string>
+            <key>scope</key>
+            <string>meta.diff, meta.diff.header</string>
+            <key>settings</key>
+            <dict>
+				<key>background</key>
+				<string>#0E2231</string>
+				<key>fontStyle</key>
+				<string>italic</string>
+				<key>foreground</key>
+				<string>#F8F8F8</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>diff.deleted</string>
+            <key>scope</key>
+            <string>markup.deleted</string>
+            <key>settings</key>
+            <dict>
+				<key>background</key>
+				<string>#420E09</string>
+				<key>foreground</key>
+				<string>#F8F8F8</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>diff.inserted</string>
+            <key>scope</key>
+            <string>markup.inserted</string>
+            <key>settings</key>
+            <dict>
+				<key>background</key>
+				<string>#253B22</string>
+				<key>foreground</key>
+				<string>#F8F8F8</string>
+            </dict>
+        </dict>
+        <dict>
+            <key>name</key>
+            <string>diff.changed</string>
+            <key>scope</key>
+            <string>markup.changed</string>
+            <key>settings</key>
+            <dict>
+				<key>background</key>
+				<string>#4A410D</string>
+				<key>foreground</key>
+				<string>#F8F8F8</string>
+            </dict>
+        </dict>
 
 	</array>
 	<key>uuid</key>

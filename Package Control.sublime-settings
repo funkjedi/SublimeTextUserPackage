@@ -1,5 +1,6 @@
 {
 	"auto_upgrade_last_run": null,
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -8,21 +9,22 @@
 		"Alignment",
 		"AngularJS",
 		"ApacheConf.tmLanguage",
+		"ApplySyntax",
+		"Babel",
+		"Base16 Color Schemes",
 		"Case Conversion",
+		"Dotfiles Syntax Highlighting",
 		"Emmet",
-		"Handlebars",
+		"HTML-CSS-JS Prettify",
 		"Laravel Blade Highlighter",
 		"LESS",
+		"Material Theme",
 		"Package Control",
-		"PackageResourceViewer",
+		"PHP-Twig",
 		"Pretty JSON",
-		"ReactJS",
 		"Sass",
-		"SCSS",
 		"StringEncode",
-		"Stylus",
-		"Theme - itg.flat",
 		"Theme - Soda",
-		"Theme - Spacegray"
+		"Zephir"
 	]
 }

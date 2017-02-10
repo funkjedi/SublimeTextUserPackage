@@ -16,14 +16,17 @@
 		".sass-cache",
 		".idea",
 		"node_modules",
-		".vagrant"
+		"bower_components",
+		".vagrant",
+		"__pycache__"
 	],
-	"font_face": "Source Code Pro Light",
-	"font_size": 15.0,
+	"font_face": "Source Code Pro ExtraLight",
+	"font_size": 18.0,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"JavaScript",
 		"Vintage"
 	],
 	"open_files_in_new_window": false,
@@ -33,6 +36,5 @@
 	"theme": "Soda Light 3.sublime-theme",
 	"translate_tabs_to_spaces": false,
 	"trim_trailing_white_space_on_save": true,
-	"word_wrap": false,
-	//"disable_tab_abbreviations": true
+	"word_wrap": false
 }
